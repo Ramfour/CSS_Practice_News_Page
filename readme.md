@@ -29,4 +29,9 @@
 Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
 
 ![Maket-site](img/maket.png "Макет сайта")
+Макет сайта
 ![dom](img/dom.png "Дом дерево")
+Дом дерево
+
+---
+[Ссылка на Github Pages](https://ramfour.github.io/CSS_Practice_News_Page/)
