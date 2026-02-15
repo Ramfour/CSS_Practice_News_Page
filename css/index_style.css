@@ -44,10 +44,6 @@ article h2 {
     margin-bottom: 5px;
 }
 
-.article-meta {
-    color: rgb(134, 142, 150);
-    margin-bottom: 5px;
-}
 
 article img {
     width: 100%;
@@ -88,7 +84,7 @@ footer .links > a{
 }
 
 /* первые два прямых потомка с надписью New */
-.news > *:nth-child(-n+2)::before {
+.news > *:nth-child(-n+2) h2::before {
     margin-top: 10px;
     content: "New*";
     color: rgb(108, 117, 125);
